@@ -1,0 +1,5 @@
+rootProject.name = 'orion-taf'
+include 'base'
+include 'regression-tests'
+include 'page-objects'
+
